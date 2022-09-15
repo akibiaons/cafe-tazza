@@ -3,9 +3,13 @@ body {
 }
 
 .navbar {
-    background-color: bisque !important;
+    background-color: burlywood !important;
 }
 
 .navbar a {
+    color: green !important;
+}
+
+.navbar-toggler-icon {
     color: green !important;
 }
