@@ -6,6 +6,8 @@
 }
 
 body {
+    width: 100%;
+    height: auto;
     font-family: 'Lora', serif;
 }
 
@@ -20,5 +22,19 @@ body {
 .navbar a {
     color: green !important;
 }
-
 /*End of navbar css settings*/
+
+/*Beginning of body css*/
+.main {
+    height: 30rem;
+    padding-top: 1rem;
+    background: url("https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/bg-photo.png")
+}
+
+
+
+/*End of body CSS*/
+
+/*Start of the footer css*/
+
+/*End of the footer css*/
