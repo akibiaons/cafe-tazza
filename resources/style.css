@@ -20,7 +20,7 @@ body {
 }
 
 .navbar a {
-    color: green !important;
+    color: #1D4706 !important;
 }
 /*End of navbar css settings*/
 
@@ -31,7 +31,10 @@ body {
     background: url("https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/bg-photo.png")
 }
 
+.main-txt {
+    color: #1D4706 !important;
 
+}
 
 /*End of body CSS*/
 
