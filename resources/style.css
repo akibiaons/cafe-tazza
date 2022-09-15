@@ -1,7 +1,18 @@
+/*Universal CSS Settings*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 body {
     font-family: 'Lora', serif;
 }
 
+/*End of universal CSS Settings*/
+
+
+/* Beginning of navbar css settings */
 .navbar {
     background-color: burlywood !important;
 }
@@ -9,3 +20,5 @@ body {
 .navbar a {
     color: green !important;
 }
+
+/*End of navbar css settings*/
