@@ -22,7 +22,7 @@ body {
 .navbar a {
     color: #1D4706 !important;
 }
-/*End of navbar css settings*/
+/*End of navbar css settings ^^*/
 
 /*Beginning of body css*/
 .main {
@@ -36,10 +36,18 @@ body {
     padding-top: 3rem;
 }
 
+/*Panel one css code: */
+
+.grid {
+    display: grid;
+}
+
 .panel-1-txt {
     color: #1D4706;
     margin-top: 2rem;
 }
+
+/*End of panel one css ^^*/
 
 /*End of body CSS*/
 
