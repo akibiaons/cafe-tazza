@@ -80,6 +80,10 @@ body {
 
 .mx-auto {
     margin-top: 2.7rem;
+    width: 11.5rem;
+    height: auto;
+    margin-bottom: 2rem;
+    text-align: center;
 }
 /*Panel two code end*/
 
