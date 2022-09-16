@@ -79,10 +79,10 @@ body {
 /*Panel two code*/
 
 .grid-2 {
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: 50%;
+    grid-template-rows: 20% 20%;
     text-align: center;
 }
 
@@ -93,6 +93,15 @@ body {
 .box-4 {
     color: #1D4706;
 }
+
+.box-5 {
+
+}
+
+.box-6 {
+    color: #1D4706;
+}
+
 /*Panel two code end*/
 
 /*End of body CSS*/
