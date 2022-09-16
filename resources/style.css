@@ -51,6 +51,7 @@ body {
 /*Panel 2 code*/
 
 .card {
+    margin-top: 1rem;
     width: 20rem !important; 
 }
 
