@@ -46,14 +46,14 @@ body {
     color: #1D4706;
     margin-top: 2rem;
 }
-/*End of panel one css ^^*/
 
-/*Panel 2 code*/
 .box-2 p {
     font-size: 1.2rem;
     color: #1D4706;
 }
+/*End of panel one css ^^*/
 
+/*Panel 2 code*/
 .card {
     margin-top: 1rem;
     width: 20rem !important; 
@@ -66,6 +66,13 @@ body {
 .card-text {
     color: #1D4706;
 }
+
+.two {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+/*End of panel two code*/
 /*End of body CSS*/
 
 /*Start of the footer css*/
