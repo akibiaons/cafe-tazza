@@ -77,12 +77,10 @@ body {
 /*End of panel one code ^^^*/
 
 /*Panel two code*/
-.supporting {
-    display: flex;
-    align-items: flex-start;
-    padding: 0 1rem;
-  }  
-  
+
+.mx-auto {
+    margin-top: 2.7rem;
+}
 /*Panel two code end*/
 
 /*End of body CSS*/
