@@ -50,6 +50,11 @@ body {
 
 /*Panel 2 code*/
 
+.box-2 p {
+    font-size: 1.2rem;
+    color: #1D4706;
+}
+
 .card {
     margin-top: 1rem;
     width: 20rem !important; 
