@@ -51,9 +51,7 @@ body {
     font-size: 1.2rem;
     color: #1D4706;
 }
-/*End of panel one css ^^*/
 
-/*Panel 2 code*/
 .card {
     margin-top: 1rem;
     width: 20rem !important; 
@@ -72,7 +70,14 @@ body {
     text-align: center;
 }
 
-/*End of panel two code*/
+.order {
+    color: #1D4706 !important;
+    background-color: burlywood;
+}
+
+
+/*End of panel one code ^^^*/
+
 /*End of body CSS*/
 
 /*Start of the footer css*/
