@@ -60,6 +60,14 @@ body {
     width: 20rem !important; 
 }
 
+.card-header {
+    color: #1D4706;
+}
+
+.card-text {
+    color: #1D4706;
+}
+
 /*End of body CSS*/
 
 /*Start of the footer css*/
