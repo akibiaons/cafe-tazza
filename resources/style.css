@@ -113,6 +113,26 @@ body {
     text-align: center;
 }
 
+.footer-child {
+    list-style: none;
+}
+
+/* Facebook */
+.fa-facebook {
+    margin: 1.5rem;
+}
+
+/* Instagram */
+
+.fa-instagram {
+    margin: 1.5rem;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
 /*End of body CSS*/
 
 /*Start of the footer css*/
