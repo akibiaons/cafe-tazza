@@ -74,9 +74,15 @@ body {
     color: #1D4706 !important;
     background-color: burlywood;
 }
-
-
 /*End of panel one code ^^^*/
+
+/*Panel two code*/
+.supporting {
+    display: flex;
+    align-items: flex-start;
+    padding: 0 1rem;
+  }  
+/*Panel two code end*/
 
 /*End of body CSS*/
 
