@@ -95,7 +95,7 @@ body {
 }
 
 .box-5 {
-    margin-bottom: 5rem;
+    margin-bottom: 15rem;
 }
 
 .box-6 {
@@ -103,6 +103,13 @@ body {
 }
 
 /*Panel two code end*/
+
+/*Footer code:*/
+.footer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
 
 /*End of body CSS*/
 
