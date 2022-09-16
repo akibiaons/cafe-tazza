@@ -48,6 +48,12 @@ body {
 }
 /*End of panel one css ^^*/
 
+/*Panel 2 code*/
+
+.card {
+    width: 20rem !important; 
+}
+
 /*End of body CSS*/
 
 /*Start of the footer css*/
