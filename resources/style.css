@@ -78,6 +78,21 @@ body {
 
 /*Panel two code*/
 
+.grid-2 {
+    margin-top: 1.5rem;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 50%;
+    text-align: center;
+}
+
+.box-3 {
+    color: #1D4706;
+}
+
+.box-4 {
+    color: #1D4706;
+}
 /*Panel two code end*/
 
 /*End of body CSS*/
